@@ -5,3 +5,13 @@
 ## 爱发电
 
 作者MBLC7已入驻[爱发电](https://ifdian.net/a/mblc7)😄，将会持续更新！
+
+## 启动器对比
+
+| 启动器 | 支持范围 | 下载 |
+| --- | --- | --- |
+| PCL | rd-132211至最新<br>（不包含Indev） | [下载](https://raw.githubusercontent.com/seecretmc/seecretapi/refs/heads/main/assets/PCL.exe) |
+| HMCL | rd-132211至最新<br>（不包含Indev） | [下载](https://raw.githubusercontent.com/seecretmc/seecretapi/refs/heads/main/assets/HMCL.exe) |
+| PCL-CE | rd-132211至最新 | [下载](https://raw.githubusercontent.com/seecretmc/seecretapi/refs/heads/main/assets/PCL-CE.exe) |
+| Betacraft | rd-132211至1.12.2 | [下载（rd-132211至1.5.2）](https://raw.githubusercontent.com/seecretmc/seecretapi/refs/heads/main/assets/Betacraft.exe)<br>[下载（1.6-1.12.2）](https://raw.githubusercontent.com/seecretmc/seecretapi/refs/heads/main/assets/BetacraftCpp.exe) |
+| TLauncher | rd-132211至最新 | [下载](https://raw.githubusercontent.com/seecretmc/seecretapi/refs/heads/main/assets/TL.exe) |
