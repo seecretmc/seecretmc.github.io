@@ -11,7 +11,7 @@
 | 启动器 | 支持范围 | 下载 |
 | --- | --- | --- |
 | PCL | rd-132211至最新<br>（不包含Indev） | [下载](https://raw.githubusercontent.com/seecretmc/seecretapi/refs/heads/main/assets/PCL.exe) |
-| HMCL | rd-132211至最新<br>（不包含Indev） | [下载](https://raw.githubusercontent.com/seecretmc/seecretapi/refs/heads/main/assets/HMCL.exe) |
+| HMCL | rd-132211至最新<br>（不包含Infdev、Indev） | [下载](https://raw.githubusercontent.com/seecretmc/seecretapi/refs/heads/main/assets/HMCL.exe) |
 | PCL-CE | rd-132211至最新 | [下载](https://raw.githubusercontent.com/seecretmc/seecretapi/refs/heads/main/assets/PCL-CE.exe) |
 | Betacraft | rd-132211至1.12.2 | [下载](https://raw.githubusercontent.com/seecretmc/seecretapi/refs/heads/main/assets/Betacraft.exe) |
-| TLauncher | rd-132211至最新 | [下载](https://raw.githubusercontent.com/seecretmc/seecretapi/refs/heads/main/assets/TL.exe) |
+| TLauncher | 1.0至最新 | [下载](https://raw.githubusercontent.com/seecretmc/seecretapi/refs/heads/main/assets/TL.exe) |
