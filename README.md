@@ -6,12 +6,12 @@
 
 作者MBLC7已入驻[爱发电](https://ifdian.net/a/mblc7)😄，将会持续更新！
 
-## <a href="https://"><img src="https://avatars.githubusercontent.com/u/249051089" width="25px" height="auto"> MBLC7</a>
+## <img src="https://avatars.githubusercontent.com/u/249051089" width="25px" height="auto"> [MBLC7](https://github.com/mineberlin777)
 
 > 详细请查看[这个](https://mineberlin777.github.io/)
 
 **MBLC7**，是这个项目的作者，兼任启动器的编程、Docsify网页创建以及项目设计…
 
-## <img src="https://avatars.githubusercontent.com/u/240447115" width="25px" height="auto"> MrShuoyuanKo-ops
+## <img src="https://avatars.githubusercontent.com/u/240447115" width="25px" height="auto"> [MrShuoyuanKo-ops](https://github.com/mrshuoyuanko-ops)
 
 …
