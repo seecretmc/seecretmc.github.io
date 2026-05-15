@@ -6,7 +6,7 @@
 
 作者MBLC7已入驻[爱发电](https://ifdian.net/a/mblc7)😄，将会持续更新！
 
-## <img src="https://avatars.githubusercontent.com/u/249051089" width="20px" height="auto"> MBLC7
+## <img src="https://avatars.githubusercontent.com/u/249051089" width="25px" height="auto"> MBLC7
 
 > 详细请查看[这个](https://mineberlin777.github.io/)
 
@@ -14,4 +14,4 @@
 
 * Sydney Trains DVA（停更也已删除）
 
-## <img src="https://avatars.githubusercontent.com/u/240447115" width="20px" height="auto"> MrShuoyuanKo-ops
+## <img src="https://avatars.githubusercontent.com/u/240447115" width="25px" height="auto"> MrShuoyuanKo-ops
