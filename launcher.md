@@ -6,5 +6,4 @@ SeecretMC是由MBLC7开发的一款Minecraft启动器，专为考古、摸鱼、
 
 ## 下载
 
-* [1.1.26.20（最新版）](https://github.com/seecretmc/seecretapi/releases/download/1.1.26.20/SeecretMC.exe)
-* [1.0.26.20](https://github.com/seecretmc/seecretapi/releases/download/1.0.26.20/SeecretMC.exe)
+* [下载](log)
