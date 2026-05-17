@@ -6,7 +6,7 @@
 
 * 修复了1.5 (D)的命名错误
 
-[下载](https://github.com/seecretmc/seecretapi/releases/download/1.1.26.20/SeecretMC.exe)
+[下载](https://seecretmc.github.io/download/1.1.26.20)
 
 ## 1.0.26.20
 
@@ -15,4 +15,4 @@
 * 加入了对RubyDung (05132011)至1.5.2的支持
 * 加入了“关闭游戏”按钮
 
-[下载](https://github.com/seecretmc/seecretapi/releases/download/1.0.26.20/SeecretMC.exe)
+[下载](https:///seecretmc.github.io/download/1.0.26.20)
