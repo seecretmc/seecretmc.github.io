@@ -30,7 +30,7 @@
 <h3>添加</h3>
 
 * 加入了对RubyDung (05132011)至1.5.2的支持
-* 加入了“关闭游戏”按钮
+* 加入了⏻按钮
 
 [下载](https:///seecretmc.github.io/download/1.0.26.20)
 </details>
