@@ -7,7 +7,7 @@
 * 修复了`SetCurrentProcessExplicitAppUserModelID`可能会导致与1.1.26.20同进程的错误
 * 修复了启动时⏻按钮的Bug
 
-[下载](https://seecretmc.github.io/download/1.2.26.21hf)
+[下载](https://seecretmc.github.io/download/1.2.26.21hf)<br>
 [下载（离线包）](https://seecretmc.github.io/download/patch)
 
 ## 1.2.26.21
@@ -23,7 +23,7 @@
 * ⏻按钮变得更合理了
 * 删除了公告
 
-[下载](https://seecretmc.github.io/download/1.2.26.21)
+[下载](https://seecretmc.github.io/download/1.2.26.21)<br>
 [下载（离线包）](https://seecretmc.github.io/download/patch)
 </details>
 
