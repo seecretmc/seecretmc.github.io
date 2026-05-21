@@ -1,14 +1,29 @@
 # 更新日志
 
-## 1.2.26.21 Hotfix（最新）
+## 1.3.26.21（最新）
+
+### 添加
+
+* 添加了检查完整性勾选框
 
 ### 更改
+
+* 更改了2.0 (D)和1.5的命名错误
+* 移除了离线包
+
+[下载](https://seecretmc.github.io/download/1.3.26.21)
+
+## 1.2.26.21 Hotfix
+
+<details>
+<h3>更改</h3>
 
 * 修复了`SetCurrentProcessExplicitAppUserModelID`可能会导致与1.1.26.20同进程的错误
 * 修复了启动时⏻按钮的Bug
 
 [下载](https://seecretmc.github.io/download/1.2.26.21hf)<br>
-[下载（离线包）](https://seecretmc.github.io/download/patch)
+[下载（离线包）](https://seecretmc.github.io/download/patch)（不建议下载）
+</details>
 
 ## 1.2.26.21
 
@@ -24,7 +39,7 @@
 * 删除了公告
 
 [下载](https://seecretmc.github.io/download/1.2.26.21)<br>
-[下载（离线包）](https://seecretmc.github.io/download/patch)
+[下载（离线包）](https://seecretmc.github.io/download/patch)（不建议下载）
 </details>
 
 ## 1.1.26.20
